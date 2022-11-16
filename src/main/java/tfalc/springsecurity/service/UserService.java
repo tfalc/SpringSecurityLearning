@@ -2,9 +2,11 @@ package tfalc.springsecurity.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
 import tfalc.springsecurity.model.User;
 import tfalc.springsecurity.repository.UserRepository;
 
+@Service
 public class UserService {
 
     @Autowired
