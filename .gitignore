@@ -32,3 +32,4 @@ target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputF
 target/spring-security-0.0.1-SNAPSHOT.jar.original
 target/surefire-reports/TEST-tfalc.springsecurity.SpringSecurityApplicationTests.xml
 target/surefire-reports/tfalc.springsecurity.SpringSecurityApplicationTests.txt
+.idea/compiler.xml
